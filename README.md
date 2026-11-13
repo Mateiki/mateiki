@@ -19,8 +19,13 @@
   🎲 Game lover
 </details>
 
-<br/>
+## My Commits
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateiki/mateiki/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateiki/mateiki/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateiki/mateiki/output/github-contribution-grid-snake.svg">
+</picture>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mateiki&show_icons=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Mateiki&show_icons=true&theme=dark_github)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Mateiki&layout=donut&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Mateiki&layout=donut&langs_count=5&theme=dark_github)
@@ -34,11 +39,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="70"/>          
 </p>
-
-## My Commits
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateiki/mateiki/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateiki/mateiki/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateiki/mateiki/output/github-contribution-grid-snake.svg">
-</picture>
