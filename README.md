@@ -15,7 +15,7 @@
   <summary> 😎 More about me</summary>
   <br/>
   💬 20 years old, living in Brazil. <br/>
-  ⚡ I enjoy solving problems.
+  ⚡ I enjoy solving problems. <br/>
   🎲 Game lover
 </details>
 
